@@ -20,3 +20,41 @@ p{
   line-height:1.6;
   margin-bottom:15px;
 }
+
+img{
+  margin:20px auto;
+  width:150px;
+  height:150px;
+  border-radius:50%;
+  border:3px solid darkblue;
+}
+
+ul{
+  list-style-type:circle;
+}
+
+li{
+  margin-bottom:5px;
+}
+
+table{
+  width:80%;
+  margin:20px auto;
+}
+
+table th{
+  border:1px solid #ddd;
+  padding:8px;
+  text-align:left;
+  background-color:#f2f2f2;
+}
+
+table td{
+  border:1px solid #ddd;
+  padding:8px;
+  text-align:left;
+}
+
+a{
+  color:teal;
+}
