@@ -1,8 +1,14 @@
+body{
+  font-family:sans-serif;
+  background-color:lightgray;
+}
+
+
 h1{
   color:#191970;
-  text-align:center
+  text-align:center;
   padding-bottom:20px;
-  border-bottom:1px solid #ccc
+  border-bottom:1px solid #ccc;
 }
 
 h2,h3{
