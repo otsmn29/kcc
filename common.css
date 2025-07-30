@@ -56,13 +56,16 @@ table td{
 }
 
 a{
-  color:teal;
+  width:10px;
+  height:5px;
+  border:1px solid #191970;
+  background-color:lightgray;
 }
 
-#hobby{
-  background-color:pink;
+a:hover{
+  opacity:0.5;
 }
 
-#favorite{
-  background-color:pink;
+.tab{
+  float:left;
 }
